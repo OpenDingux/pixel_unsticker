@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Pixel Unsticker
+Comment=Alternates randomly between colors to loosen stuck (sub)pixels
+Exec=pixel_unsticker
+Icon=pixel_unsticker
+Categories=applications;
